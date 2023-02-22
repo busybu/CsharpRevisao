@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ExCSharp.exe
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ExCSharp.deps.json
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ExCSharp.runtimeconfig.json
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ExCSharp.dll
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ref\ExCSharp.dll
+C:\Users\Aluno\Downloads\ExCSharp\bin\Debug\net6.0\ExCSharp.pdb
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.dll
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ref\ExCSharp.dll
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.pdb
+C:\Users\Aluno\Downloads\ExCSharp\obj\Debug\net6.0\ExCSharp.genruntimeconfig.cache
